@@ -2,3 +2,8 @@
 # [digikala.com]
 127.0.0.1 digikala.com
 178.128.165.146 digikala.com
+
+||pornhub.com^
+# [pornhub.com]
+127.0.0.1 pornhub.com
+178.128.165.146 pornhub.com
