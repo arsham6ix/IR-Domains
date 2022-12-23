@@ -1,9 +1,22 @@
 # [digikala.com]
 ||digikala.com^
+@@||digikala.com^
 127.0.0.1 digikala.com
 178.128.165.146 digikala.com
 
 # [snapp.ir]
 ||snapp.ir^
+@@||snapp.ir^
 127.0.0.1 snapp.ir
 178.128.165.146 snapp.ir
+
+# [pornhub.com]
+||pornhub.com^
+@@||pornhub.com^
+127.0.0.1 pornhub.com
+178.128.165.146 pornhub.com
+10.16.0.8 pornhub.com
+10.16.0.5 pornhub.com
+fe80::14ea:39ff:fe82:dda0%eth0 pornhub.com
+fe80::58b7:9ff:fe14:ecef%eth1 pornhub.com
+::1 pornhub.com
