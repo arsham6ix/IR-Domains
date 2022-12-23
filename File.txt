@@ -1,21 +1,2 @@
-# [digikala.com]
-||digikala.com^
-@@||digikala.com^
-127.0.0.1 digikala.com
-178.128.165.146 digikala.com
-10.16.0.8 digikala.com
-10.16.0.5 digikala.com
-fe80::14ea:39ff:fe82:dda0%eth0 digikala.com
-fe80::58b7:9ff:fe14:ecef%eth1 digikala.com
-::1 digikala.com
-
-# [snapp.ir]
-||snapp.ir^
-@@||snapp.ir^
-127.0.0.1 snapp.ir
-178.128.165.146 snapp.ir
-10.16.0.8 snapp.ir
-10.16.0.5 snapp.ir
-fe80::14ea:39ff:fe82:dda0%eth0 snapp.ir
-fe80::58b7:9ff:fe14:ecef%eth1 snapp.ir
-::1 snapp.ir
+||snapp.ir^$important
+||digikala.com^$important
