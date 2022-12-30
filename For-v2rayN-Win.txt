@@ -1,4 +1,5 @@
 regexp:.*.ir$,
+geoip:ir
 regexp:.*.dpdonya.com$,
 regexp:.*.1taei.com$,
 regexp:.*.dadehpardaz.com$,
